@@ -1,0 +1,35 @@
+
+The Python Apprentice by Robert Smallshire 
+
+English | 2017 | ISBN: 1788293181 | 362 Pages | True PDF, EPUB, AZW3 | 81 MB
+
+Experienced programmers want to know how to enhance their craft and we want to help them start as apprentices with Python. We know that before mastering Python you need to learn the culture and the tools to become a productive member of any Python project. Our goal with this book is to give you a practical and thorough introduction to Python programming, providing you with the insight and technical craftsmanship you need to be a productive member of any Python project. Python is a big language, and it's not our intention with this book to cover everything there is to know. We just want to make sure that you, as the developer, know the tools, basic idioms and of course the ins and outs of the language, the standard library and other modules to be able to jump into most projects.
+
+What you will learn
+
+	Learn the language of Python itself
+	Get a start on the Python standard library
+	Learn how to integrate 3rd party libraries
+	Develop libraries on your own
+	Become familiar with the basics of Python testing
+
+The Python Master by Robert Smallshire, Austin Bingham 
+
+English | 2019 | ISBN: 8293483083 | 301 Pages | EPUB | 10 MB
+
+Mastery of the Python calls for felicity with the full depth and breadth of the language. We’ll go all the way in this book to show you how to use the most powerful of Python’s language features to greatest effect…with occasional reminders that sometimes there is a simpler way.
+
+The Python Master is the culmination of our trilogy covering the core Python language. The material in these books is derived from Sixty North’s popular and battle-tested training courses which have led thousands of programmers on a journey to being productive with Python.
+
+Our books, which use Python 3, follow a spiral curriculum: We introduce topics gently and then revisit them on multiple occasions to add the depth required to support your progression as a Python developer. We’ve worked hard to structure the syllabus to avoid forward references. On only a few occasions do we require you to accept techniques on trust, before explaining them later; where we do, it’s to deliberately establish good habits.
+
+
+The Python Journeyman by Robert Smallshire, Austin Bingham 2018
+
+English | 2018 | ISBN: 8293483045 | 429 Pages | PDF | 10 MB
+
+One of Python’s strengths is that it’s approachable and easy to learn, so that almost anyone can learn to write a basic Python program. The Python Journeyman will take you beyond that, beyond the basics. We will lead you through some of the deeper aspects of Python, and give you the skills you need to write great Python programs.
+
+The Python Journeyman is the second book in our trilogy covering the core Python language. The material in these books is derived from Sixty North’s popular and battle-tested training courses which have led thousands of programmers on a journey to being productive with Python.
+
+Our books, which use Python 3, follow a spiral curriculum: We introduce topics gently and then revisit them on multiple occasions to add the depth required to support your progression as a Python developer. We’ve worked hard to structure the syllabus to avoid forward references. On only a few occasions do we require you to accept techniques on trust, before explaining them later; where we do, it’s to deliberately establish good habits.
